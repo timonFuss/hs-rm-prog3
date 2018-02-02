@@ -1,0 +1,9 @@
+# Kommentar am Anfang
+
+"ID","Vorname","Name"
+"42","Johannes","Kraut"
+"1337","Moni","Tor"
+
+# noch ein Kommentar
+
+"666","Frank","Reich"
